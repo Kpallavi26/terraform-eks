@@ -1,5 +1,5 @@
 
-# EKS with Terraform via GitHub Actions (Simple)
+# EKS with Terraform via GitHub Actions
 
 ## How to use
 1. Create a GitHub repo and push these files.
